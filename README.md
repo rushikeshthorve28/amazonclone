@@ -1,3 +1,3 @@
-# new project
+# project 1
 
-this project was created from local System
+this is amazon clone created using Css and html
